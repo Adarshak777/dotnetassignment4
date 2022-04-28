@@ -171,7 +171,7 @@ class DayScholar
 
 
         Console.WriteLine($"the dayscholar  paid {transport_fees} & remaining fee is {rem1_fee}");
-        Console.WriteLine();
+        Console.ReadLine();
     }
 
 }
